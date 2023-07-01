@@ -1,7 +1,7 @@
 {
     "addresses": {
-        "nftDrop" : "0xc4BAC744834115201E64dba0bf723c718Ecde9F8",
-        "tokenADT": "0xd497dF41dd9AB721CD8C23DC3CE4aD9F28E5Fd1F",
-        "nftStaking": "0x9FE157Aa2E12390695aEc8B860F57A2e9cf13684"
+        "nftDrop" : "0x698842107efbba4357fdee60d4ea533d665a68de",
+        "tokenADT": "0x264a7F03c87f004EFD3799F2FcBdf4a1ca477d19",
+        "nftStaking": "0x5B3CE765371372f2551991be8b64fF04a223c5a1"
     }
 }
